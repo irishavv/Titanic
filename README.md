@@ -1,4 +1,5 @@
 # Titanic
+Author- Rishav Kumar
 Why Transformation of Features Are Required?
 
 1. Linear Regression---Gradient Descent ----Global Minima
